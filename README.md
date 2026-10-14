@@ -50,6 +50,15 @@ I like building things that sit somewhere between hardware and software: sensors
 
 ## Featured project
 
+
+## Outside of coding
+
+- Cars, automotive engineering and diagnostics
+- Photography and video shooting/editing
+- Swimming
+- Tinkering with old hardware, Linux and random electronics
+- Learning how mechanical and electronic systems work
+
 ### ESP32 Telemetry Node
 
 An ESP32-based IoT project that reads sensor data and sends telemetry to a REST API over Wi-Fi.
