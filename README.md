@@ -48,9 +48,6 @@ I like building things that sit somewhere between hardware and software: sensors
 - Dashboards and telemetry systems
 - Small projects that teach me how systems work under the hood
 
-## Featured project
-
-
 ## Outside of coding
 
 - Cars, automotive engineering and diagnostics
@@ -58,6 +55,10 @@ I like building things that sit somewhere between hardware and software: sensors
 - Swimming
 - Tinkering with old hardware, Linux and random electronics
 - Learning how mechanical and electronic systems work
+
+## Featured project
+
+
 
 ### ESP32 Telemetry Node
 
